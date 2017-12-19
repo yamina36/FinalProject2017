@@ -1,5 +1,5 @@
 ## Story of workers people who have disabilities in the US
-###Personal story which is about Gallacher
+### Personal story which is about Gallacher
 This is happend in the US.
 
 Gallacher, 28, is a computer expert. He has a bachelor's degree in management and entrepreneurship from Louisiana Tech University. Yet most employers don't give him a second glance when they learn he's blind, even though he is able to operate a computer just fine with a screen reader.
@@ -12,7 +12,7 @@ Since its inception, much has changed for the better. Supermarket aisles are wid
 
 But there's one thing that's deteriorated for them -- employment.
 
-###Show me the jobs
+### Show me the jobs
 Employment for disabled Americans has actually fallen since 1990, and there's an even bigger gap between disabled and non-disabled jobs prospects today. 
 
 ![image](https://i.imgur.com/ebBNEGg.jpg)
@@ -23,7 +23,7 @@ But it's telling that the employment rate of disabled Americans has dropped more
 
 The problems often start at an early age.
 
-###Basic barriers remain
+### Basic barriers remain
 While in high school, Gallacher had three teachers who he says didn't accommodate for his disability in their classes. He found similar problems when he entered college, which is why he transferred to Louisiana Tech from a different university that did not cater to his needs at all.
 
 "As a mother of student with disability, I've seen how many schools don't have ramps that are usable. I am just stunned that there hasn't been more attention in our education system to these very obvious emblems of discrimination," said Susan Dooha, executive director of the Center for Independence of the Disabled, who herself suffers from a traumatic brain injury.
@@ -36,7 +36,7 @@ The only jobs he's had are volunteering stints. He still lives with his parents 
 
 ![image](https://i.imgur.com/bVeCYGJ.jpg)
 
-###Low wage jobs
+### Low wage jobs
 Even for those with jobs, the prospects remain bleak. Disabled persons earn significantly less than non-disabled, and the gap between annual earnings has widened since the early 1990s.
 
 Disabled workers earn about $9,000 less a year than a non-disabled workers, according to Census data on median earnings. That gap was under $6,000 in the early 1990s.
