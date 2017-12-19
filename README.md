@@ -53,7 +53,7 @@ It often takes individual companies changing their policies to really make a dif
 
 
 ## Demo Link
-https://msandoval2.github.io/Final-Project-/
+http://dsistudents.com/students/Yuka/Datavizfinalproject/index.html
 
 
 ## The Process
