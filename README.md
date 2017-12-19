@@ -74,7 +74,7 @@ Data visualization comparing the number of workers with disabilities and the num
 I used datas below:
 
 * [Data Retrieval: Labor Force Statistics](https://www.bls.gov/webapps/legacy/cpsatab6.htm)
-* [DSee How Your State Ranks In Employment Among Workers with Disabilities](http://fortune.com/2017/02/28/disability-employment-rank/)
+* [See How Your State Ranks In Employment Among Workers with Disabilities](http://fortune.com/2017/02/28/disability-employment-rank/)
 
 I assumed that New York State and California states, emigrant-friendly states are also promoting employment of people who have disabilities. But the reality was different. Rather than, the state who has few population and few immigrants positively hires disabled people. The reason of that companies do not have many choices in rural state in the US? As expected, the number of employed people wit
 
